@@ -1,0 +1,7 @@
+*.mp4
+*.jpg
+*.png
+__pycache__
+*.npy
+*.xml
+*.yml
