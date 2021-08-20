@@ -32,6 +32,7 @@ def create_coords_of_rotated_rectangle(top_left, angle, h, w):
         
         ---------fix now---------
         ''')
+        # hi
         points = [[0,0],[img.shape[1], img.shape[0]],[img.shape[1], 0],[0, img.shape[0]]]
         return points, False
 
